@@ -1,0 +1,44 @@
+{
+    "test_cases": [
+        {
+            "question": "What is the capital of France?",
+            "context": [
+                "European countries",
+                "Geography"
+            ],
+            "answer": "Paris is the capital of France."
+        },
+        {
+            "question": "How many planets are in our solar system?",
+            "context": [
+                "Astronomy",
+                "Planetary science"
+            ],
+            "answer": "There are 8 planets in our solar system."
+        },
+        {
+            "question": "Who wrote Romeo and Juliet?",
+            "context": [
+                "Literature",
+                "Shakespeare"
+            ],
+            "answer": "William Shakespeare wrote Romeo and Juliet."
+        },
+        {
+            "question": "What is the largest mammal in the world?",
+            "context": [
+                "Marine biology",
+                "Animals"
+            ],
+            "answer": "The blue whale is the largest mammal in the world."
+        },
+        {
+            "question": "When was the Eiffel Tower built?",
+            "context": [
+                "Paris history",
+                "Architecture"
+            ],
+            "answer": "The Eiffel Tower was built in 1889 for the World's Fair in Paris."
+        }
+    ]
+}

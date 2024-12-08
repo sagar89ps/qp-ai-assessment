@@ -1,0 +1,35 @@
+fastapi
+uvicorn
+pydantic
+transformers
+sentence-transformers
+PyPDF2
+python-docx
+faiss-cpu
+pymilvus
+
+
+
+
+# Backend Dependencies
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.7
+sentence-transformers==2.2.2
+transformers==4.29.2
+torch==2.0.1
+python-multipart==0.0.6
+PyPDF2==3.0.1
+python-docx==0.8.11
+faiss-cpu==1.7.4
+
+# Frontend Dependencies
+streamlit==1.22.0
+requests==2.30.0
+
+# ML and Evaluation
+scikit-learn==1.2.2
+numpy==1.24.3
+
+# Development and Testing
+pytest==7.3.1
